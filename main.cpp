@@ -1,9 +1,10 @@
-//#include "Header/letters.h"
 #include "AlternateHeaders/str2stars.h"
+
 int main(){
 
+    string abc = "anil berk atas";
 
-    str2stars("GOD");
+    str2stars(abc);
 
     getchar();
 
